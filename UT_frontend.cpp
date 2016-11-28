@@ -18,11 +18,11 @@ this source code.
 
  ********************************************************************/
 
-#include "frontend.h"
+#include "UT_frontend.h"
 
 #include "mbed.h"
 
-#include "usbtin.h"
+#include "USBtin.h"
 
 unsigned char timestamping = 0;
 
